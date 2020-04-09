@@ -22,8 +22,10 @@ Basic Test case creation using Python/unittest framework using Appium Python Lib
 
 3. Download the Eribank application using URL : https://experitest.s3.amazonaws.com/eribank.apk to c:\\  (The code uses the Application from c:\\ (in windows). Please change the code in case you   change the download location)
 
-4. Modify following variables in the code if necessary
-   Open EribankTest.java and modify static variables if necessary,
+4. Import the cloned project in Pycharm (In Pycharm menu, navigate to File > Open or "Open" if no projects are open)
+
+5. Modify following variables in the code if necessary
+   Open AppiumTest.py and modify static variables if necessary,
 
       Appium Server listening host and port.
 
@@ -44,7 +46,8 @@ Basic Test case creation using Python/unittest framework using Appium Python Lib
       ```
 
 
-5. To know how execute the test,
-      * Open the cloned project in Pycharm (Menu > Open )
-      * Please follow the section "Executing the Test" in the blog - <>
+5. To know how execute the test, (Associated blog link - <>)
+      * Make sure you set the Interpreter, Please follow "Interpreter Configuration" in the blog.
+      * Make sure you have imported Appium Dependency, Please follow the "Creating First Test using Appium and Python" in the blog.
+      * Please follow the section "Executing the Test".
 
