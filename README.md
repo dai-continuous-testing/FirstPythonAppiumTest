@@ -25,7 +25,8 @@ Basic Test case creation using Python/unittest framework using Appium Python Lib
 4. Import the cloned project in Pycharm (In Pycharm menu, navigate to File > Open or "Open" if no projects are open)
 
 5. Modify following variables in the code if necessary
-   Open AppiumTest.py and modify static variables if necessary,
+
+   Open **AppiumTest.py** and modify following if necessary,
 
       Appium Server listening host and port.
 
