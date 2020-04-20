@@ -3,7 +3,7 @@
 This project demonstrates Mobile Automation using Appium and Python programming language.
 Pycharm IDE used for Python.
 
-Project is associated with the blog - Complete Guide Appium Testing using Python - <>
+Project is associated with the blog - Complete Guide Appium Testing using Python - https://experitest.com/appium-testing/the-complete-guide-appium-testing-using-python
 
 This example will cover:
 
@@ -47,7 +47,7 @@ Basic Test case creation using Python/unittest framework using Appium Python Lib
       ```
 
 
-5. To know how execute the test, (Associated blog link - <>)
+5. To know how execute the test, (Associated blog link - https://experitest.com/appium-testing/the-complete-guide-appium-testing-using-python)
       * Make sure you set the Interpreter, Please follow "Interpreter Configuration" in the blog.
       * Make sure you have imported Appium Dependency, Please follow the "Creating First Test using Appium and Python" in the blog.
       * Please follow the section "Executing the Test".
